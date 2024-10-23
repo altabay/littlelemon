@@ -1,4 +1,4 @@
-# Back-End-Developer-Capstone
+# Back-End Developer Capstone Project
 META Back-End Developer Course Capstone Project implemented by Oleksii Altabaiev
 
-Please, see Readme.txt file for review process in Week4 of the course.
+Please, see the Readme.txt file for the review process in Week 4 of the course.
